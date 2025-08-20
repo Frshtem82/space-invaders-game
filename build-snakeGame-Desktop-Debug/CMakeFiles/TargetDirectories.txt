@@ -1,0 +1,9 @@
+C:/Users/digimax/Desktop/QT/build-snakeGame-Desktop-Debug/CMakeFiles/snakeGame.dir
+C:/Users/digimax/Desktop/QT/build-snakeGame-Desktop-Debug/CMakeFiles/edit_cache.dir
+C:/Users/digimax/Desktop/QT/build-snakeGame-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/digimax/Desktop/QT/build-snakeGame-Desktop-Debug/CMakeFiles/list_install_components.dir
+C:/Users/digimax/Desktop/QT/build-snakeGame-Desktop-Debug/CMakeFiles/install.dir
+C:/Users/digimax/Desktop/QT/build-snakeGame-Desktop-Debug/CMakeFiles/install/local.dir
+C:/Users/digimax/Desktop/QT/build-snakeGame-Desktop-Debug/CMakeFiles/install/strip.dir
+C:/Users/digimax/Desktop/QT/build-snakeGame-Desktop-Debug/CMakeFiles/snakeGame_autogen_timestamp_deps.dir
+C:/Users/digimax/Desktop/QT/build-snakeGame-Desktop-Debug/CMakeFiles/snakeGame_autogen.dir
